@@ -7,3 +7,33 @@ h3{
     color: #0033A0;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
+ul{
+    list-style: circle;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4B0082  
+}
+
+#menu-bar a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    background-color: #F2C300;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: #3D9140;
+    color:#ffffff;
+}
+
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #9E1F19;
+}
+
